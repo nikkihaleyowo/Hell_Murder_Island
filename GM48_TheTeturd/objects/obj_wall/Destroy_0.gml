@@ -1,0 +1,1 @@
+global.physical_world.RemoveWall(floor(x/global.cell_size), floor(y/global.cell_size));

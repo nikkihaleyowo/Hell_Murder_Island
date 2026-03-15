@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"RaidManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RaidManager",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Load3d",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Load3d",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

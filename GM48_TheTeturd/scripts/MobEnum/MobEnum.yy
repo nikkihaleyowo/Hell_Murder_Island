@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MobEnum",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MobEnum",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
